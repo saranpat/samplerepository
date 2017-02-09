@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test resolving conflict
+=======
+whattheforthewin
+>>>>>>> development
